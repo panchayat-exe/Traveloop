@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+/* subtle selection to match neon theme */
+::selection {
+  background: rgba(34, 211, 238, 0.25);
+}
